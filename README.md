@@ -65,7 +65,7 @@ debugger page — any open GlassOut pop-out holds that panel's page and blocks t
 it for input.
 
 ```
-git clone <repo-url>
+git clone https://github.com/kyleawayan/glassout-touch-coherent
 cd glassout-touch-coherent
 dotnet build
 .\bin\Debug\net8.0-windows\glassout-touch.exe <profileName>
