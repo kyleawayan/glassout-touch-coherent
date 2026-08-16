@@ -57,7 +57,7 @@ flowchart LR
 - Windows + **.NET 8 Desktop SDK** (`dotnet --list-runtimes` shows `Microsoft.WindowsDesktop.App 8.0.x`).
 - **MSFS 2024** running, in a flight (the Coherent debugger on port 19999 is available by default).
 - The **GlassOut app running and licensed, with none of its own pop-out windows open** — it runs the
-  engine and lends its license, but must not be holding any debugger pages (see below). No NuGet packages.
+  engine and lends its license, but must not be holding any debugger pages (see below).
 
 ## Run
 
