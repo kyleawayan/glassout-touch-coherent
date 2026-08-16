@@ -4,6 +4,8 @@ A small companion for [GlassOut](https://glassout.flyingart.dev/) that opens bor
 position-locked pop-out windows for MSFS touchscreen avionics (WT G3000 GTCs and other touch
 panels), sending input through the MSFS Coherent debugger so taps and drags register consistently.
 
+[**Video demo**](https://www.youtube.com/shorts/Vdh45FparTQ)
+
 GlassOut does the hard part — capturing cockpit panels live from the GPU with no FPS cost. This
 tool reuses that stream and adds an input path tuned for WT G3000 touch-buttons, which respond to a
 `mousedown`+`mouseup` on the gauge element. Taps and live drag/scroll both work.
