@@ -69,8 +69,8 @@ it for input.
 ```
 git clone https://github.com/kyleawayan/glassout-touch-coherent
 cd glassout-touch-coherent
-dotnet build
-.\bin\Debug\net8.0-windows\glassout-touch.exe <profileName>
+dotnet build -c Release
+.\bin\Release\net8.0-windows\glassout-touch.exe <profileName>
 ```
 
 `<profileName>` is your GlassOut profile's name (from `%APPDATA%\GlassOut\profiles`), or a path to a
