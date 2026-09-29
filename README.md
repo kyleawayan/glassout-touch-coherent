@@ -1,5 +1,8 @@
 # glassout-touch-coherent
 
+> [!NOTE]
+> # GlassOut now includes built-in touch support for these panels, so this tool may no longer be needed.
+
 A small companion for [GlassOut](https://glassout.flyingart.dev/) that opens borderless,
 position-locked pop-out windows for MSFS touchscreen avionics (WT G3000 GTCs and other touch
 panels), sending input through the MSFS Coherent debugger so taps and drags register consistently.
